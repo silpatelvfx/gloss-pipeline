@@ -64,7 +64,7 @@ nuke.pluginAddPath('./MOTools')
 nuke.pluginAddPath('./Cattery')
 nuke.pluginAddPath('./V_Tools')
 #nuke.pluginAddPath('./AUTOPROJECT_HELPER_01')
-nuke.pluginAddPath('./GLOSS_NY_PIPELINE')
+nuke.pluginAddPath('./GLOSS_NY_PIPELINE_v1.0.1')
 nuke.pluginAddPath('./MONDAY_FOR_NUKE')
 #nuke.pluginAddPath('./nuke_comfyui')
 

@@ -93,7 +93,7 @@ except Exception:
 # =====================================================================
 import importlib.util
 
-PIPELINE_DIR = "/Users/sheel/.nuke/GLOSS_NY_PIPELINE"
+PIPELINE_DIR = "/Users/sheel/.nuke/GLOSS_NY_PIPELINE_v1.0.1"
 SCRIPTS_DIR  = os.path.join(PIPELINE_DIR, "Python_Scripts")
 ICON_DIR     = os.path.join(PIPELINE_DIR, "Icon")
 
