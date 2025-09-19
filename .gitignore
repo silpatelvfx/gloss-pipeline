@@ -1,28 +1,21 @@
-# macOS
 .DS_Store
-
-# Python
 __pycache__/
 *.pyc
-
-# Media (keep code-only in Git)
+*.tmp
+*.autosave
 *.mov
 *.mp4
-*.avi
 *.wav
-*.aif
 *.exr
 *.dpx
 *.tif
-*.tiff
-*.jpg
-*.jpeg
 *.png
-*.psd
-
-# Nuke project junk
-*.tmp
-*.autosave
-*.lock
-*.cache
-*.bak
+*.jpg
+**/DN/
+**/Final/
+**/PreComp/
+**/INT_Output/
+**/07_FOR_QC/
+**/01_EXR/
+**/02_QT/
+**/03_Matte/
